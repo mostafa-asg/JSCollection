@@ -2,6 +2,7 @@
 Implementing sorted collection in Java
 
 ## Basic usage:
+```
 //create new instance of sorted collection
 SortedCollection<Integer> lst1 = new SortedCollection<Integer>();
 
@@ -13,4 +14,4 @@ for (int i = 10; i >= 1 ; --i) {
 for( int n : lst1 ){
             System.out.print(n + "\t");
 }
-
+```
