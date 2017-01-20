@@ -2,7 +2,7 @@
 Implementing sorted collection in Java
 
 ## Basic usage:
-```
+```java
 //create new instance of sorted collection
 SortedCollection<Integer> lst1 = new SortedCollection<Integer>();
 
