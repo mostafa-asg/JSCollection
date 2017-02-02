@@ -70,3 +70,4 @@ public class SortedCollection<E> extends AbstractCollection<E> {
     public int size() {
         return elementData.size();
     }
+}
